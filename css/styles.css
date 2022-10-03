@@ -64,7 +64,7 @@ color: var(--color-primary-text);
 
 .button-portfolio:hover,
 .button-portfolio:focus {
-color: var(--color-white-tex);
+color: var(--color-white-text);
 background-color: var(--color-accent-background);
 }
 
@@ -92,7 +92,7 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
-color: var(--color-secondary-tex);
+color: var(--color-secondary-text);
 }
 
 .auth-link:hover,
@@ -160,7 +160,7 @@ text-transform: uppercase;
 font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
-color: var(--color-secondary-tex);
+color: var(--color-secondary-text);
 }
 
 /* Діяльність */
@@ -192,7 +192,7 @@ line-height: 1.19;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.19;
-color: var(--color-secondary-tex);
+color: var(--color-secondary-text);
 }
 
 /* підвал */
